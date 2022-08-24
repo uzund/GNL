@@ -1,0 +1,4 @@
+test1.txt Bu satır 1. satırıdır ilk satırda bunlar yazıyor 1. SATIR SONU
+test1.txt Bu satır 2. satırıdır @@@@ !!!!!@#$%^&*(!@#$%^&*(! 2. SATIR SONU
+test1.txt Bu satır 3. satırıdır kafana göre takıl 3. SATIR SONU
+test1.txt Bu satır 4. satırıdır Anlamsız yazılar ŞÇÖPOPMwğoro23 DOSYANIN SONU
